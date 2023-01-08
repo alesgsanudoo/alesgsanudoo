@@ -5,13 +5,7 @@ I am Alejandro and a Freshman currently studying Computer Science in [Purdue Uni
 
 ## Github status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alesgsanudoo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
-<html>
-<body>
 <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000" align="left">
-      <img src="...">
-      <img src="..." align="right">
+      <img src=""https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000" align="right">
 </p>
-</body>
-</html>
