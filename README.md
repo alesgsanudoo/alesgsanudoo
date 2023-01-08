@@ -6,6 +6,6 @@ I am Alejandro and a Freshman currently studying Computer Science in [Purdue Uni
 ## Github status
 
 <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=alesgsanudoo&show_icons=true&bg_color=00000000" align="left">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesgsanudoo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats" align="right">
+      <img src="https://github-readme-stats.vercel.app/api?username=alesgsanudoo&show_icons=true&bg_color=00000000" align="right">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesgsanudoo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats" align="left">
 </p>
