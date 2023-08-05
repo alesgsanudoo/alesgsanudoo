@@ -37,7 +37,7 @@ Welcome to my GitHub page! I am a student currently studying Computer Science in
 <p align="center"><img src="https://profile-counter.glitch.me/{alesgsanudoo}/count.svg" alt="Alex :: Visitor's Count" /></p>
 
 <h1 align="center">GitHub's Stats 📊</h1>
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-between;">
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=alesgsanudoo&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true&bg_color=00000000" alt="Source Stats">
   </div>
