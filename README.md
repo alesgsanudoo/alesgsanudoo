@@ -27,7 +27,6 @@ Welcome to my GitHub page! I am a student currently studying Computer Science in
 * 🔜
 
 #### 💪 Things I am challenging myself with:
-* Waking up earlier to make good use of the day.
 * Being healthy and working out every day.
 * Improving my CV with some education apart from University.
 * 🔜
@@ -38,8 +37,12 @@ Welcome to my GitHub page! I am a student currently studying Computer Science in
 <p align="center"><img src="https://profile-counter.glitch.me/{alesgsanudoo}/count.svg" alt="Alex :: Visitor's Count" /></p>
 
 <h1 align="center">GitHub's Stats 📊</h1>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alesgsanudoo&show_icons=true&hide_rank=true&count_private=true&&include_all_commits=true&bg_color=00000000" alt="Source Stats"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesgsanudoo&langs_count=10&bg_color=00000000" alt="Top langs"></p>
-
-
+<div style="display: flex; justify-content: space-around;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=alesgsanudoo&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true&bg_color=00000000" alt="Source Stats">
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesgsanudoo&langs_count=10&bg_color=00000000" alt="Top langs">
+  </div>
+</div>
 
