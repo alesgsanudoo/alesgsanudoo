@@ -19,7 +19,7 @@ Welcome to my GitHub page! I am a student currently studying Computer Science in
 
 #
 
-<img align="right" alt="img" src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" width="50%" height="auto" />
+<img align="right" alt="img" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWR1Z2FvcTl3NTlhbmt3enptaGwzcGd1aXR6bmUxd2N2OXk0YjFhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q34Q46x7bUUKJfbn0s/giphy-downsized-large.gif" width="50%" height="auto" />
 
 ### 🌱  Things that I'm currently working on:
 * Learning Front-End and Back-end Web.
