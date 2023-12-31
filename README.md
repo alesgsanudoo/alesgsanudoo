@@ -19,7 +19,7 @@ Welcome to my GitHub page! I am a student currently studying Computer Science in
 
 #
 
-<img align="right" alt="img" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWR1Z2FvcTl3NTlhbmt3enptaGwzcGd1aXR6bmUxd2N2OXk0YjFhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q34Q46x7bUUKJfbn0s/giphy-downsized-large.gif" width="50%" height="auto" />
+<img align="right" alt="img" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDM5ODE1MDMsIm5iZiI6MTcwMzk4MTIwMywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyMzEyMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjMxVDAwMDY0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVlOTM3NGUxMmYxOTcyYWJhNjBmMGQ1NjJlZTQ5YTczMThlZmU2YWMzMmE0MzFlNWE4YzQxMjg2MTljOTQ0ZWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.a_6yx7izIpM6R3628kRYfFGE0WHt4n5pmQNblMLv8uw" width="50%" height="auto" />
 
 ### 🌱  Things that I'm currently working on:
 * Learning Front-End and Back-end Web.
