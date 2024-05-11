@@ -20,6 +20,7 @@ Welcome to my GitHub page! I am a student currently studying Computer Science in
 #
 
 <div>
+  
 #### 🌱  Things that I'm currently working on:
 * Learning Front-End and Back-end Web.
 * Doing personal projects, learning at the same time how to work with other developers.
