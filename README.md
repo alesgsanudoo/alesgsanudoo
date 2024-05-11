@@ -19,19 +19,22 @@ Welcome to my GitHub page! I am a student currently studying Computer Science in
 
 #
 
-<div>
-  
-#### 🌱  Things that I'm currently working on:
-* Learning Front-End and Back-end Web.
-* Doing personal projects, learning at the same time how to work with other developers.
-* 🔜
-
-#### 💪 Things I am challenging myself with:
-* Being healthy and working out every day.
-* Improving my CV with some education apart from University.
-* 🔜
-
-<img align="right" alt="img" src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU0NjM1ODQsIm5iZiI6MTcxNTQ2MzI4NCwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTExVDIxMzQ0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThkOTVjODIwNmRkY2JkMjIyMjMzYjAxMThhYmExMzZiNTc0NDhjNTJhN2IwZGI0Y2UwMzQ3NDE4ZjAwMDRiNjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.4vY13dm808v3Vcq_sn_68mya9rzcVBPZtFZSBZ87OW4" width="50%" height="auto" />
+<div style="display: flex; justify-content: space-between;">
+    <div>
+        <h3>🌱 Things that I'm currently working on:</h3>
+        <ul>
+            <li>Learning Front-End and Back-end Web.</li>
+            <li>Doing personal projects, learning at the same time how to work with other developers.</li>
+            <li>🔜</li>
+        </ul>
+        <h3>💪 Things I am challenging myself with:</h3>
+        <ul>
+            <li>Being healthy and working out every day.</li>
+            <li>Improving my CV with some education apart from University.</li>
+            <li>🔜</li>
+        </ul>
+    </div>
+    <img src="https://private-user-images.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" style="max-width: 50%;">
 </div>
 
 
