@@ -17,6 +17,7 @@
 Welcome to my GitHub page! I am a student currently studying Computer Science in <a href="https://www.purdue.edu">Purdue University</a>.
 </div>
 
+#
 
 <div>
 #### 🌱  Things that I'm currently working on:
