@@ -1,6 +1,6 @@
 <!--Greetings-->
 <h1 align="center">Hi there, I am Alex 👋</h1>
-<div style="text-align: center;">
+<div align="center" style="text-align: center;">
 
 <!--Links-->
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alesgsanudoo)
@@ -11,13 +11,12 @@
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://alesgsanudoo.com)
 </div>
 
+<!--Introduction-->
+<h3 align="center"><samp>Welcome to my GitHub page!</samp></h3>
+<h4 align="center"><samp>I am a student currently studying Computer Science at <a href="https://www.purdue.edu">Purdue University</a></samp> </h3>
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/alesgsanudoo/alesgsanudoo/refs/heads/main/images/background-readme.gif">
 
 
-<!--Introduction-->
-<div style="text-align: center;">
-Welcome to my GitHub page! I am a student currently studying Computer Science in <a href="https://www.purdue.edu">Purdue University</a>.
-</div>
 
 #
 
