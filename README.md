@@ -43,7 +43,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{alesgsanudoo}/count.svg" alt="Alex :: Visitor's Count" /></p>
 
 <h1 align="center">GitHub's Stats 📊</h1>
-  <div align="center" style="display: flex-row; justify-content: space-between;">
+  <div align="center" style="display: flex-col; justify-content: space-between;">
     <div>
       <img src="https://git.alesgsanudoo.com/api?username=alesgsanudoo&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true&bg_color=00000000" alt="Source Stats" style="max-width: 25%;">
     </div>
