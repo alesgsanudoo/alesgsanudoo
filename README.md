@@ -49,7 +49,7 @@
       <img src="https://git.alesgsanudoo.com/api?username=alesgsanudoo&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true&bg_color=00000000" alt="Source Stats" style="max-width: 25%;">
     </div>
     <div>
-      <img src="https://git.alesgsanudoo.com/api/top-langs/?username=alesgsanudoo&hide_progress=true&bg_color=00000000" alt="Top langs" style="max-width: 25%;">
+      <img src="https://git.alesgsanudoo.com/api/top-langs/?username=alesgsanudoo&hide_progress=false&bg_color=00000000" alt="Top langs" style="max-width: 25%;">
     </div>
   </div>
 </div>
