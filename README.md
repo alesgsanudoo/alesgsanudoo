@@ -43,7 +43,6 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{alesgsanudoo}/count.svg" alt="Alex :: Visitor's Count" /></p>
 
 <h1 align="center">GitHub's Stats 📊</h1>
-<div align="center">
   <div style="display: flex; justify-content: space-between;">
     <div>
       <img src="https://git.alesgsanudoo.com/api?username=alesgsanudoo&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true&bg_color=00000000" alt="Source Stats" style="max-width: 25%;">
@@ -51,6 +50,5 @@
     <div>
       <img src="https://git.alesgsanudoo.com/api/top-langs/?username=alesgsanudoo&layout=compact&bg_color=00000000" alt="Top langs" style="max-width: 25%;">
     </div>
-  </div>
 </div>
 
