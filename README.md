@@ -43,12 +43,10 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{alesgsanudoo}/count.svg" alt="Alex :: Visitor's Count" /></p>
 
 <h1 align="center">GitHub's Stats 📊</h1>
-  <div align="center" style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
-    <div>
-      <img src="https://git.alesgsanudoo.com/api?username=alesgsanudoo&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true&bg_color=00000000" alt="Source Stats" style="max-width: 25%;">
-    </div>
-    <div>
-      <img src="https://git.alesgsanudoo.com/api/top-langs/?username=alesgsanudoo&layout=compact&bg_color=00000000" alt="Top langs" style="max-width: 25%;">
-    </div>
+<div align="center">
+  <img src="https://git.alesgsanudoo.com/api?username=alesgsanudoo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://git.alesgsanudoo.com/api/top-langs?username=alesgsanudoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
 
