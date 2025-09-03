@@ -37,10 +37,5 @@
     </div>
 </div>
 
-
-
-<h1 align="center">Visitor's count 👀</h1>
-<p align="center"><img src="https://profile-counter.glitch.me/{alesgsanudoo}/count.svg" alt="Alex :: Visitor's Count" /></p>
-
 ###
 
